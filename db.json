@@ -3,7 +3,12 @@
     {
       "id": 1,
       "imageUrl": "https://www.w3schools.com/w3images/fjords.jpg",
-	  "descripts":"image w3schools"
+	  "description": "image w3schools"
+    },
+	{
+      "id": 2,
+      "imageUrl": "https://www.w3schools.com/w3images/fjords.jpg",
+	  "description": "image w3schools 222"
     }
   ],
   "profile": {
